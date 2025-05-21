@@ -1,5 +1,3 @@
-import 'package:flutter_rpg/models/character.dart';
-
 mixin Stats {
   int _points = 10;
   int _health = 10;
